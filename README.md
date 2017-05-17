@@ -1,7 +1,8 @@
 # includeall.github.io
-Website for IncludeOrph program
 
-IncludeOrph is a program conducted in Sri Lanka to enhance IT education in children in Orphanages.
+## Website for IncludeOrph program
+
+**__IncludeOrph__** is a program conducted in Sri Lanka to enhance IT education in children in Orphanages.
 
 Project 1:
 
@@ -9,6 +10,6 @@ Thummodara Methodist Girls’ Home, a girls’ orphanage situated in a rural are
 
 The aim of this project is to guide orphan girls in the path towards equalizing women and men in technical industry and to inspire, motivate and move more of them living in diversified environments to pursue careers in Science, Technology, Engineering and Mathematics (STEM). 
 
-Co-founders of this program are Nathalie Fernando and Dilushi Piumwardane.
+Co-founders of this program are _Nathalie Fernando_ and _Dilushi Piumwardane_.
 
-The resources for this project is partially funded by Anita Borg Institute.
+The resources for this project is partially funded by **__Anita Borg Institute__**.
