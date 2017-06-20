@@ -267,10 +267,10 @@
                 <div class="col-sm-6 col-md-6">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
                         <div class="team-img">
-                            <img class="img-responsive" src="images/dilushi.jpg" alt="">
+                            <img class="img-responsive" src="images/team/01.jpg" alt="">
                         </div>
                         <div class="team-info">
-                            <h3>Dilushi</h3>
+                            <h3>Me 1</h3>
                             <span>Head</span>
                         </div>
                         <p></p>
@@ -285,10 +285,10 @@
                 <div class="col-sm-6 col-md-6">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="100ms">
                         <div class="team-img">
-                            <img class="img-responsive" src="images/nathalie.jpg" alt="">
+                            <img class="img-responsive" src="images/team/02.jpg" alt="">
                         </div>
                         <div class="team-info">
-                            <h3>Nathalie</h3>
+                            <h3>Me 2</h3>
                             <span>Body</span>
                         </div>
                         <p></p>
