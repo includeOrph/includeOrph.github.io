@@ -10,6 +10,12 @@ Thummodara Methodist Girls’ Home, a girls’ orphanage situated in a rural are
 
 The aim of this project is to guide orphan girls in the path towards equalizing women and men in technical industry and to inspire, motivate and move more of them living in diversified environments to pursue careers in Science, Technology, Engineering and Mathematics (STEM). 
 
-Co-founders of this program are _Nathalie Fernando_ and _Dilushi Piumwardane_.
+The resources for this particular project was partially funded by **__Anita Borg Institute__**.
 
-The resources for this project is partially funded by **__Anita Borg Institute__**.
+The program was initially founded by _Nathalie Fernando_ and _Dilushi Piumwardane_.
+
+Project 2:
+
+We are currently planning on season 2. 
+
+Reach out to us through contacts displayed on our website https://includeorph.github.io/ and any contributions to the website are welcome!
